@@ -74,7 +74,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-    background-image: url("/Users/brittneybaker/Desktop/Projects/run-buddy/assets/images/hero-bg.jpeg");
+    background-image: url("/Users/brittneybaker/Desktop/Projects/run-buddy/assets/images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -298,5 +298,6 @@ section {
       color: #39a6b2;
       font-size: 23px;
   }
+  
 
   

@@ -72,7 +72,7 @@
   
   /* Hero Style Start */
   .hero {
-    background-image: url('https://github.com/Bbaker1989/Run-Buddy/blob/main/assets/images/hero-bg.jpg?raw=true');
+    background-image: url('/Users/brittneybaker/Desktop/Projects/run-buddy/assets/images/hero-bg.jpeg');
     height: 600px;
     background-size: cover;
     background-position: center;
